@@ -6,7 +6,7 @@ import MissionCard from './MissionCard';
 class Missions extends Component {
   render() {
     const missionsList = missions.map((mission, index) => (
-      <li key={ index }>
+      <li key={ index } className="missionList">
         <MissionCard
           name={ mission.name }
           year={ mission.year }

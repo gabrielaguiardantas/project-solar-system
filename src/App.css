@@ -1,3 +1,15 @@
-.App {
-  text-align: center;
+/* Solar System */
+.SolarSystem {
+  background: white;
+  height: 3327px;
+  position: relative;
+  width: 1280px;
+}
+
+.planetList {
+  list-style: none;
+}
+
+.missionList {
+  list-style: none;
 }

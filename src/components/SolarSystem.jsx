@@ -6,7 +6,7 @@ import PlanetCard from './PlanetCard';
 class SolarSystem extends Component {
   render() {
     const planetsList = planets.map((planet, index) => (
-      <li key={ index }>
+      <li key={ index } className="planetList">
         <PlanetCard
           planetName={ planet.name }
           planetImage={ planet.image }
