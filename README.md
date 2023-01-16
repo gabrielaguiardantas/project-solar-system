@@ -1,4 +1,10 @@
-# :construction: README customizado em construção ! :construction:
+# Projeto Solar System #
+
+Oitavo projeto do curso de desenvolvimento Web da Trybe e segundo projeto do módulo FrontEnd. Nessa aplicação tivemos o primeiro contato com React e utilizamos essa linguagem para adicionar informações de missões espaciais e seus planetas relacionados numa página.
+
+## Demonstração: ##
+
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
