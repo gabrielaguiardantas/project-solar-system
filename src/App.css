@@ -6,10 +6,30 @@
   width: 1280px;
 }
 
+ul {
+  display: inline-flex;
+}
+
 .planetList {
   list-style: none;
+  text-align: center;
 }
 
 .missionList {
+  background: rgba(24, 26, 37, 0.5);
+  border: 1px solid black;
+  border-radius: 1px;
+  box-sizing: border-box;
+  display: block;
+  font-family: Courier , monospace;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 550;
+  height: 192px;
+  line-height: 150%;
   list-style: none;
+  margin-right: 2%;
+  padding: 6px;
+  position: relative;
+  width: 35%;
 }
