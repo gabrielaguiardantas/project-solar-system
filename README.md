@@ -8,3 +8,4 @@ https://user-images.githubusercontent.com/110852595/212702236-9c021da8-9c06-46df
 
 ## Features implementadas: ##
 
+![features-project7](https://github.com/gabrielaguiardantas/project-solar-system/assets/110852595/23205fef-5dd8-4e47-814e-ca697825a18d)
